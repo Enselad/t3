@@ -3,7 +3,7 @@
     .header{
         flex-direction: column-reverse;
     }
-    container{
+    .container{
         flex-direction: column;
     }
     .header-text{
